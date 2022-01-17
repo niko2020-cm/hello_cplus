@@ -1,0 +1,9 @@
+//
+// Created by luo on 2022/1/17.
+//
+
+#ifndef HELLO_CPLUS_POINTFORPARAMETER_H
+#define HELLO_CPLUS_POINTFORPARAMETER_H
+void pointForParameter();
+
+#endif //HELLO_CPLUS_POINTFORPARAMETER_H

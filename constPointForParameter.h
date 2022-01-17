@@ -1,0 +1,11 @@
+//
+// Created by luo on 2022/1/17.
+//
+
+#ifndef HELLO_CPLUS_CONSTPOINTFORPARAMETER_H
+#define HELLO_CPLUS_CONSTPOINTFORPARAMETER_H
+
+
+void constPointForParameter();
+
+#endif //HELLO_CPLUS_CONSTPOINTFORPARAMETER_H

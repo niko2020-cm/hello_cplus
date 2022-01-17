@@ -1,0 +1,10 @@
+//
+// Created by luo on 2022/1/17.
+//
+
+#ifndef HELLO_CPLUS_POINTERTYPEFUNCTION_H
+#define HELLO_CPLUS_POINTERTYPEFUNCTION_H
+
+void pointerTypeFunction();
+
+#endif //HELLO_CPLUS_POINTERTYPEFUNCTION_H

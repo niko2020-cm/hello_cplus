@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/luo/CLionProjects/hello_cplus/Point.h
+
+C:/Users/luo/CLionProjects/hello_cplus/main.cpp
+iostream
+-
+objectPoint.h
+C:/Users/luo/CLionProjects/hello_cplus/objectPoint.h
+
+C:/Users/luo/CLionProjects/hello_cplus/objectPoint.cpp
+objectPoint.h
+C:/Users/luo/CLionProjects/hello_cplus/objectPoint.h
+Point.h
+C:/Users/luo/CLionProjects/hello_cplus/Point.h
+iostream
+-
+
+C:/Users/luo/CLionProjects/hello_cplus/objectPoint.h
+
+C:/Users/luo/CLionProjects/hello_cplus/pointerToFunction.cpp
+pointerToFunction.h
+C:/Users/luo/CLionProjects/hello_cplus/pointerToFunction.h
+iostream
+-
+
+C:/Users/luo/CLionProjects/hello_cplus/pointerToFunction.h
+
