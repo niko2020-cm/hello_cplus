@@ -36,5 +36,6 @@ void mallocArray()
         }
         cout<<endl;
     }
+    delete [] cp;
 #endif
 }
