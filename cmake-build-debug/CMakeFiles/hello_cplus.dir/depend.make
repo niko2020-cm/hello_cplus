@@ -14,7 +14,11 @@ CMakeFiles/hello_cplus.dir/constPointForParameter.cpp.obj: \
  ../constPointForParameter.h
 CMakeFiles/hello_cplus.dir/main.cpp.obj: \
  ../main.cpp \
- ../objectPoint.h
+ ../mallocArray.h
+CMakeFiles/hello_cplus.dir/mallocArray.cpp.obj: \
+ ../Point.h \
+ ../mallocArray.cpp \
+ ../mallocArray.h
 CMakeFiles/hello_cplus.dir/objectPoint.cpp.obj: \
  ../Point.h \
  ../objectPoint.cpp \

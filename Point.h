@@ -18,6 +18,8 @@ public:
     ~Point(){count--;}
     int getx() const{return x;}
     int gety() const { return y; }
+    void move(int ,int);
+    friend float distance(Point &,Point &);
     static void showCount();//静态函数，可以通过类名直接调用
     /*通常用来处理静态成员只能用来访问静态成员*/
 

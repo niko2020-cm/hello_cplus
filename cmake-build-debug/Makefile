@@ -248,6 +248,30 @@ main.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\hello_cplus.dir\build.make CMakeFiles/hello_cplus.dir/main.cpp.s
 .PHONY : main.cpp.s
 
+mallocArray.obj: mallocArray.cpp.obj
+.PHONY : mallocArray.obj
+
+# target to build an object file
+mallocArray.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\hello_cplus.dir\build.make CMakeFiles/hello_cplus.dir/mallocArray.cpp.obj
+.PHONY : mallocArray.cpp.obj
+
+mallocArray.i: mallocArray.cpp.i
+.PHONY : mallocArray.i
+
+# target to preprocess a source file
+mallocArray.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\hello_cplus.dir\build.make CMakeFiles/hello_cplus.dir/mallocArray.cpp.i
+.PHONY : mallocArray.cpp.i
+
+mallocArray.s: mallocArray.cpp.s
+.PHONY : mallocArray.s
+
+# target to generate assembly for a file
+mallocArray.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\hello_cplus.dir\build.make CMakeFiles/hello_cplus.dir/mallocArray.cpp.s
+.PHONY : mallocArray.cpp.s
+
 objectPoint.obj: objectPoint.cpp.obj
 .PHONY : objectPoint.obj
 
@@ -368,6 +392,9 @@ help:
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s
+	@echo ... mallocArray.obj
+	@echo ... mallocArray.i
+	@echo ... mallocArray.s
 	@echo ... objectPoint.obj
 	@echo ... objectPoint.i
 	@echo ... objectPoint.s

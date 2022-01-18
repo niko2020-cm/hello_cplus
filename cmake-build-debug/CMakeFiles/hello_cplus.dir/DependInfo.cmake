@@ -13,6 +13,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "C:/Users/luo/CLionProjects/hello_cplus/client.cpp" "C:/Users/luo/CLionProjects/hello_cplus/cmake-build-debug/CMakeFiles/hello_cplus.dir/client.cpp.obj"
   "C:/Users/luo/CLionProjects/hello_cplus/constPointForParameter.cpp" "C:/Users/luo/CLionProjects/hello_cplus/cmake-build-debug/CMakeFiles/hello_cplus.dir/constPointForParameter.cpp.obj"
   "C:/Users/luo/CLionProjects/hello_cplus/main.cpp" "C:/Users/luo/CLionProjects/hello_cplus/cmake-build-debug/CMakeFiles/hello_cplus.dir/main.cpp.obj"
+  "C:/Users/luo/CLionProjects/hello_cplus/mallocArray.cpp" "C:/Users/luo/CLionProjects/hello_cplus/cmake-build-debug/CMakeFiles/hello_cplus.dir/mallocArray.cpp.obj"
   "C:/Users/luo/CLionProjects/hello_cplus/objectPoint.cpp" "C:/Users/luo/CLionProjects/hello_cplus/cmake-build-debug/CMakeFiles/hello_cplus.dir/objectPoint.cpp.obj"
   "C:/Users/luo/CLionProjects/hello_cplus/pointForParameter.cpp" "C:/Users/luo/CLionProjects/hello_cplus/cmake-build-debug/CMakeFiles/hello_cplus.dir/pointForParameter.cpp.obj"
   "C:/Users/luo/CLionProjects/hello_cplus/pointerToFunction.cpp" "C:/Users/luo/CLionProjects/hello_cplus/cmake-build-debug/CMakeFiles/hello_cplus.dir/pointerToFunction.cpp.obj"

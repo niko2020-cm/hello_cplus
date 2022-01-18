@@ -107,6 +107,12 @@
 		<Unit filename="C:/Users/luo/CLionProjects/hello_cplus/main.cpp">
 			<Option target="hello_cplus"/>
 		</Unit>
+		<Unit filename="C:/Users/luo/CLionProjects/hello_cplus/mallocArray.cpp">
+			<Option target="hello_cplus"/>
+		</Unit>
+		<Unit filename="C:/Users/luo/CLionProjects/hello_cplus/mallocArray.h">
+			<Option target="hello_cplus"/>
+		</Unit>
 		<Unit filename="C:/Users/luo/CLionProjects/hello_cplus/objectPoint.cpp">
 			<Option target="hello_cplus"/>
 		</Unit>

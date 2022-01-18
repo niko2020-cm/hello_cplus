@@ -14,7 +14,11 @@ CMakeFiles/hello_cplus.dir/constPointForParameter.cpp.obj
  C:/Users/luo/CLionProjects/hello_cplus/constPointForParameter.h
 CMakeFiles/hello_cplus.dir/main.cpp.obj
  C:/Users/luo/CLionProjects/hello_cplus/main.cpp
- C:/Users/luo/CLionProjects/hello_cplus/objectPoint.h
+ C:/Users/luo/CLionProjects/hello_cplus/mallocArray.h
+CMakeFiles/hello_cplus.dir/mallocArray.cpp.obj
+ C:/Users/luo/CLionProjects/hello_cplus/Point.h
+ C:/Users/luo/CLionProjects/hello_cplus/mallocArray.cpp
+ C:/Users/luo/CLionProjects/hello_cplus/mallocArray.h
 CMakeFiles/hello_cplus.dir/objectPoint.cpp.obj
  C:/Users/luo/CLionProjects/hello_cplus/Point.h
  C:/Users/luo/CLionProjects/hello_cplus/objectPoint.cpp

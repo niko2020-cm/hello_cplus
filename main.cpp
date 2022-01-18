@@ -1,9 +1,9 @@
 #include <iostream>
 using namespace std;
-#include "objectPoint.h"
+#include "mallocArray.h"
 
 int main()
 {
-    objectPoint();
+    mallocArray();
     return 0;
 }

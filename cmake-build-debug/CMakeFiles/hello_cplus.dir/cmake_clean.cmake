@@ -4,6 +4,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/hello_cplus.dir/client.cpp.obj"
   "CMakeFiles/hello_cplus.dir/constPointForParameter.cpp.obj"
   "CMakeFiles/hello_cplus.dir/main.cpp.obj"
+  "CMakeFiles/hello_cplus.dir/mallocArray.cpp.obj"
   "CMakeFiles/hello_cplus.dir/objectPoint.cpp.obj"
   "CMakeFiles/hello_cplus.dir/pointForParameter.cpp.obj"
   "CMakeFiles/hello_cplus.dir/pointerToFunction.cpp.obj"
