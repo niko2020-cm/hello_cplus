@@ -8,10 +8,12 @@
 
 class Point {
 public:
-    explicit Point(int x=0,int y=0):x(x),y(y){
+    Point():x(0),y(0) {
+    }//default
+    explicit Point(int x,int y=10):x(x),y(y){//构造函数
         count++;
     }
-    Point(const Point &p){
+    Point(const Point &p){//赋值函数
         x=p.x,y=p.y;
         count++;
     }

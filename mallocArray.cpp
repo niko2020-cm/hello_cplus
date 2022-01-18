@@ -10,14 +10,14 @@ using namespace std;
 void mallocArray()
 {
 
-#if   0
+#if   1
     auto *ptr=new Point[2];
     ptr[0].move(5,10);
     ptr[1].move(15,20);
     cout<<" "<<distance(ptr[0],ptr[1])<<endl;
     cout<<"Deleting..."<<endl;
     delete []ptr;
-#else
+#elif 0
     int (*cp)[8][9];
     cp = new int[7][8][9];//auto不能用于二维及二维数组以上，声明和定义分开可以避免类型错误
     for(int i=0;i<7;i++)
@@ -37,5 +37,7 @@ void mallocArray()
         cout<<endl;
     }
     delete [] cp;
+#else
+
 #endif
 }
