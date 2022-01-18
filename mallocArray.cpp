@@ -4,12 +4,11 @@
 
 #include "mallocArray.h"
 #include <iostream>
-#include "Point.h"
+#include "ArrayOfPoints.h"
 using namespace std;
 
 void mallocArray()
 {
-
 #if   1
     auto *ptr=new Point[2];
     ptr[0].move(5,10);
@@ -38,6 +37,13 @@ void mallocArray()
     }
     delete [] cp;
 #else
+    int count;
+    cout<<"Please enter the count of points:";
+    cin>>count;
 
+    ArrayOfPoints points(count);
+    points.element(0).move(5,0);
+    points.element(1).move(15,20);
+    cout<<" "<<distance(points.element(1),points.element(0));
 #endif
 }

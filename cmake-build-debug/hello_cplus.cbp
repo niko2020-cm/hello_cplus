@@ -80,6 +80,12 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="C:/Users/luo/CLionProjects/hello_cplus/ArrayOfPoints.cpp">
+			<Option target="hello_cplus"/>
+		</Unit>
+		<Unit filename="C:/Users/luo/CLionProjects/hello_cplus/ArrayOfPoints.h">
+			<Option target="hello_cplus"/>
+		</Unit>
 		<Unit filename="C:/Users/luo/CLionProjects/hello_cplus/Matrix.cpp">
 			<Option target="hello_cplus"/>
 		</Unit>

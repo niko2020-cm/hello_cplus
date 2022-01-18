@@ -1,4 +1,5 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/hello_cplus.dir/ArrayOfPoints.cpp.obj"
   "CMakeFiles/hello_cplus.dir/Matrix.cpp.obj"
   "CMakeFiles/hello_cplus.dir/Point.cpp.obj"
   "CMakeFiles/hello_cplus.dir/client.cpp.obj"

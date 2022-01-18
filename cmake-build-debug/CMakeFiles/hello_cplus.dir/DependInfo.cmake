@@ -8,6 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
+  "C:/Users/luo/CLionProjects/hello_cplus/ArrayOfPoints.cpp" "C:/Users/luo/CLionProjects/hello_cplus/cmake-build-debug/CMakeFiles/hello_cplus.dir/ArrayOfPoints.cpp.obj"
   "C:/Users/luo/CLionProjects/hello_cplus/Matrix.cpp" "C:/Users/luo/CLionProjects/hello_cplus/cmake-build-debug/CMakeFiles/hello_cplus.dir/Matrix.cpp.obj"
   "C:/Users/luo/CLionProjects/hello_cplus/Point.cpp" "C:/Users/luo/CLionProjects/hello_cplus/cmake-build-debug/CMakeFiles/hello_cplus.dir/Point.cpp.obj"
   "C:/Users/luo/CLionProjects/hello_cplus/client.cpp" "C:/Users/luo/CLionProjects/hello_cplus/cmake-build-debug/CMakeFiles/hello_cplus.dir/client.cpp.obj"

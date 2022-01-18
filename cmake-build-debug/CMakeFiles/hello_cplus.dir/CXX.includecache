@@ -6,6 +6,10 @@
 
 #IncludeRegexTransform: 
 
+C:/Users/luo/CLionProjects/hello_cplus/ArrayOfPoints.h
+Point.h
+C:/Users/luo/CLionProjects/hello_cplus/Point.h
+
 C:/Users/luo/CLionProjects/hello_cplus/Point.h
 
 C:/Users/luo/CLionProjects/hello_cplus/mallocArray.cpp
@@ -13,8 +17,8 @@ mallocArray.h
 C:/Users/luo/CLionProjects/hello_cplus/mallocArray.h
 iostream
 -
-Point.h
-C:/Users/luo/CLionProjects/hello_cplus/Point.h
+ArrayOfPoints.h
+C:/Users/luo/CLionProjects/hello_cplus/ArrayOfPoints.h
 
 C:/Users/luo/CLionProjects/hello_cplus/mallocArray.h
 

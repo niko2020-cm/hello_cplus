@@ -128,6 +128,30 @@ hello_cplus/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\hello_cplus.dir\build.make CMakeFiles/hello_cplus.dir/build
 .PHONY : hello_cplus/fast
 
+ArrayOfPoints.obj: ArrayOfPoints.cpp.obj
+.PHONY : ArrayOfPoints.obj
+
+# target to build an object file
+ArrayOfPoints.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\hello_cplus.dir\build.make CMakeFiles/hello_cplus.dir/ArrayOfPoints.cpp.obj
+.PHONY : ArrayOfPoints.cpp.obj
+
+ArrayOfPoints.i: ArrayOfPoints.cpp.i
+.PHONY : ArrayOfPoints.i
+
+# target to preprocess a source file
+ArrayOfPoints.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\hello_cplus.dir\build.make CMakeFiles/hello_cplus.dir/ArrayOfPoints.cpp.i
+.PHONY : ArrayOfPoints.cpp.i
+
+ArrayOfPoints.s: ArrayOfPoints.cpp.s
+.PHONY : ArrayOfPoints.s
+
+# target to generate assembly for a file
+ArrayOfPoints.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\hello_cplus.dir\build.make CMakeFiles/hello_cplus.dir/ArrayOfPoints.cpp.s
+.PHONY : ArrayOfPoints.cpp.s
+
 Matrix.obj: Matrix.cpp.obj
 .PHONY : Matrix.obj
 
@@ -377,6 +401,9 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... hello_cplus
+	@echo ... ArrayOfPoints.obj
+	@echo ... ArrayOfPoints.i
+	@echo ... ArrayOfPoints.s
 	@echo ... Matrix.obj
 	@echo ... Matrix.i
 	@echo ... Matrix.s
