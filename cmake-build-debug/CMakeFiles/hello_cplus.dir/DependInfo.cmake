@@ -10,7 +10,9 @@ set(CMAKE_DEPENDS_LANGUAGES
 set(CMAKE_DEPENDS_CHECK_CXX
   "C:/Users/luo/CLionProjects/hello_cplus/ArrayOfPoints.cpp" "C:/Users/luo/CLionProjects/hello_cplus/cmake-build-debug/CMakeFiles/hello_cplus.dir/ArrayOfPoints.cpp.obj"
   "C:/Users/luo/CLionProjects/hello_cplus/Matrix.cpp" "C:/Users/luo/CLionProjects/hello_cplus/cmake-build-debug/CMakeFiles/hello_cplus.dir/Matrix.cpp.obj"
+  "C:/Users/luo/CLionProjects/hello_cplus/OneArray.cpp" "C:/Users/luo/CLionProjects/hello_cplus/cmake-build-debug/CMakeFiles/hello_cplus.dir/OneArray.cpp.obj"
   "C:/Users/luo/CLionProjects/hello_cplus/Point.cpp" "C:/Users/luo/CLionProjects/hello_cplus/cmake-build-debug/CMakeFiles/hello_cplus.dir/Point.cpp.obj"
+  "C:/Users/luo/CLionProjects/hello_cplus/SavingsAccount.cpp" "C:/Users/luo/CLionProjects/hello_cplus/cmake-build-debug/CMakeFiles/hello_cplus.dir/SavingsAccount.cpp.obj"
   "C:/Users/luo/CLionProjects/hello_cplus/client.cpp" "C:/Users/luo/CLionProjects/hello_cplus/cmake-build-debug/CMakeFiles/hello_cplus.dir/client.cpp.obj"
   "C:/Users/luo/CLionProjects/hello_cplus/constPointForParameter.cpp" "C:/Users/luo/CLionProjects/hello_cplus/cmake-build-debug/CMakeFiles/hello_cplus.dir/constPointForParameter.cpp.obj"
   "C:/Users/luo/CLionProjects/hello_cplus/main.cpp" "C:/Users/luo/CLionProjects/hello_cplus/cmake-build-debug/CMakeFiles/hello_cplus.dir/main.cpp.obj"
@@ -19,6 +21,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "C:/Users/luo/CLionProjects/hello_cplus/pointForParameter.cpp" "C:/Users/luo/CLionProjects/hello_cplus/cmake-build-debug/CMakeFiles/hello_cplus.dir/pointForParameter.cpp.obj"
   "C:/Users/luo/CLionProjects/hello_cplus/pointerToFunction.cpp" "C:/Users/luo/CLionProjects/hello_cplus/cmake-build-debug/CMakeFiles/hello_cplus.dir/pointerToFunction.cpp.obj"
   "C:/Users/luo/CLionProjects/hello_cplus/pointerTypeFunction.cpp" "C:/Users/luo/CLionProjects/hello_cplus/cmake-build-debug/CMakeFiles/hello_cplus.dir/pointerTypeFunction.cpp.obj"
+  "C:/Users/luo/CLionProjects/hello_cplus/summaryOne.cpp" "C:/Users/luo/CLionProjects/hello_cplus/cmake-build-debug/CMakeFiles/hello_cplus.dir/summaryOne.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

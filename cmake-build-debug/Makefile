@@ -176,6 +176,30 @@ Matrix.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\hello_cplus.dir\build.make CMakeFiles/hello_cplus.dir/Matrix.cpp.s
 .PHONY : Matrix.cpp.s
 
+OneArray.obj: OneArray.cpp.obj
+.PHONY : OneArray.obj
+
+# target to build an object file
+OneArray.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\hello_cplus.dir\build.make CMakeFiles/hello_cplus.dir/OneArray.cpp.obj
+.PHONY : OneArray.cpp.obj
+
+OneArray.i: OneArray.cpp.i
+.PHONY : OneArray.i
+
+# target to preprocess a source file
+OneArray.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\hello_cplus.dir\build.make CMakeFiles/hello_cplus.dir/OneArray.cpp.i
+.PHONY : OneArray.cpp.i
+
+OneArray.s: OneArray.cpp.s
+.PHONY : OneArray.s
+
+# target to generate assembly for a file
+OneArray.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\hello_cplus.dir\build.make CMakeFiles/hello_cplus.dir/OneArray.cpp.s
+.PHONY : OneArray.cpp.s
+
 Point.obj: Point.cpp.obj
 .PHONY : Point.obj
 
@@ -199,6 +223,30 @@ Point.s: Point.cpp.s
 Point.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\hello_cplus.dir\build.make CMakeFiles/hello_cplus.dir/Point.cpp.s
 .PHONY : Point.cpp.s
+
+SavingsAccount.obj: SavingsAccount.cpp.obj
+.PHONY : SavingsAccount.obj
+
+# target to build an object file
+SavingsAccount.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\hello_cplus.dir\build.make CMakeFiles/hello_cplus.dir/SavingsAccount.cpp.obj
+.PHONY : SavingsAccount.cpp.obj
+
+SavingsAccount.i: SavingsAccount.cpp.i
+.PHONY : SavingsAccount.i
+
+# target to preprocess a source file
+SavingsAccount.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\hello_cplus.dir\build.make CMakeFiles/hello_cplus.dir/SavingsAccount.cpp.i
+.PHONY : SavingsAccount.cpp.i
+
+SavingsAccount.s: SavingsAccount.cpp.s
+.PHONY : SavingsAccount.s
+
+# target to generate assembly for a file
+SavingsAccount.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\hello_cplus.dir\build.make CMakeFiles/hello_cplus.dir/SavingsAccount.cpp.s
+.PHONY : SavingsAccount.cpp.s
 
 client.obj: client.cpp.obj
 .PHONY : client.obj
@@ -392,6 +440,30 @@ pointerTypeFunction.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\hello_cplus.dir\build.make CMakeFiles/hello_cplus.dir/pointerTypeFunction.cpp.s
 .PHONY : pointerTypeFunction.cpp.s
 
+summaryOne.obj: summaryOne.cpp.obj
+.PHONY : summaryOne.obj
+
+# target to build an object file
+summaryOne.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\hello_cplus.dir\build.make CMakeFiles/hello_cplus.dir/summaryOne.cpp.obj
+.PHONY : summaryOne.cpp.obj
+
+summaryOne.i: summaryOne.cpp.i
+.PHONY : summaryOne.i
+
+# target to preprocess a source file
+summaryOne.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\hello_cplus.dir\build.make CMakeFiles/hello_cplus.dir/summaryOne.cpp.i
+.PHONY : summaryOne.cpp.i
+
+summaryOne.s: summaryOne.cpp.s
+.PHONY : summaryOne.s
+
+# target to generate assembly for a file
+summaryOne.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\hello_cplus.dir\build.make CMakeFiles/hello_cplus.dir/summaryOne.cpp.s
+.PHONY : summaryOne.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -407,9 +479,15 @@ help:
 	@echo ... Matrix.obj
 	@echo ... Matrix.i
 	@echo ... Matrix.s
+	@echo ... OneArray.obj
+	@echo ... OneArray.i
+	@echo ... OneArray.s
 	@echo ... Point.obj
 	@echo ... Point.i
 	@echo ... Point.s
+	@echo ... SavingsAccount.obj
+	@echo ... SavingsAccount.i
+	@echo ... SavingsAccount.s
 	@echo ... client.obj
 	@echo ... client.i
 	@echo ... client.s
@@ -434,6 +512,9 @@ help:
 	@echo ... pointerTypeFunction.obj
 	@echo ... pointerTypeFunction.i
 	@echo ... pointerTypeFunction.s
+	@echo ... summaryOne.obj
+	@echo ... summaryOne.i
+	@echo ... summaryOne.s
 .PHONY : help
 
 

@@ -8,7 +8,7 @@
 
 class ArrayOfPoints {
 public:
-    ArrayOfPoints():size(0),points(new Point[0]){};//default
+    ArrayOfPoints():size(0),points(nullptr){};//default
     explicit ArrayOfPoints(int);
     ~ArrayOfPoints();
     Point& element(int index);

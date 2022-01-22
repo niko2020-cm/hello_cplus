@@ -92,10 +92,22 @@
 		<Unit filename="C:/Users/luo/CLionProjects/hello_cplus/Matrix.h">
 			<Option target="hello_cplus"/>
 		</Unit>
+		<Unit filename="C:/Users/luo/CLionProjects/hello_cplus/OneArray.cpp">
+			<Option target="hello_cplus"/>
+		</Unit>
+		<Unit filename="C:/Users/luo/CLionProjects/hello_cplus/OneArray.h">
+			<Option target="hello_cplus"/>
+		</Unit>
 		<Unit filename="C:/Users/luo/CLionProjects/hello_cplus/Point.cpp">
 			<Option target="hello_cplus"/>
 		</Unit>
 		<Unit filename="C:/Users/luo/CLionProjects/hello_cplus/Point.h">
+			<Option target="hello_cplus"/>
+		</Unit>
+		<Unit filename="C:/Users/luo/CLionProjects/hello_cplus/SavingsAccount.cpp">
+			<Option target="hello_cplus"/>
+		</Unit>
+		<Unit filename="C:/Users/luo/CLionProjects/hello_cplus/SavingsAccount.h">
 			<Option target="hello_cplus"/>
 		</Unit>
 		<Unit filename="C:/Users/luo/CLionProjects/hello_cplus/client.cpp">
@@ -141,6 +153,12 @@
 			<Option target="hello_cplus"/>
 		</Unit>
 		<Unit filename="C:/Users/luo/CLionProjects/hello_cplus/pointerTypeFunction.h">
+			<Option target="hello_cplus"/>
+		</Unit>
+		<Unit filename="C:/Users/luo/CLionProjects/hello_cplus/summaryOne.cpp">
+			<Option target="hello_cplus"/>
+		</Unit>
+		<Unit filename="C:/Users/luo/CLionProjects/hello_cplus/summaryOne.h">
 			<Option target="hello_cplus"/>
 		</Unit>
 		<Unit filename="C:/Users/luo/CLionProjects/hello_cplus/CMakeLists.txt">

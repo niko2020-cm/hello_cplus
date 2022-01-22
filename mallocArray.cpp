@@ -10,7 +10,7 @@ using namespace std;
 void mallocArray()
 {
 #if   1
-    auto *ptr=new Point[2];
+    auto *ptr=new Point[2]{Point(1),Point(3)};
     ptr[0].move(5,10);
     ptr[1].move(15,20);
     cout<<" "<<distance(ptr[0],ptr[1])<<endl;

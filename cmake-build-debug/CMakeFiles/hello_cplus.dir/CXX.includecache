@@ -6,19 +6,23 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/luo/CLionProjects/hello_cplus/ArrayOfPoints.h
-Point.h
-C:/Users/luo/CLionProjects/hello_cplus/Point.h
-
-C:/Users/luo/CLionProjects/hello_cplus/Point.h
-
-C:/Users/luo/CLionProjects/hello_cplus/mallocArray.cpp
-mallocArray.h
-C:/Users/luo/CLionProjects/hello_cplus/mallocArray.h
+C:/Users/luo/CLionProjects/hello_cplus/SavingsAccount.cpp
+SavingsAccount.h
+C:/Users/luo/CLionProjects/hello_cplus/SavingsAccount.h
+cmath
+-
 iostream
 -
-ArrayOfPoints.h
-C:/Users/luo/CLionProjects/hello_cplus/ArrayOfPoints.h
 
-C:/Users/luo/CLionProjects/hello_cplus/mallocArray.h
+C:/Users/luo/CLionProjects/hello_cplus/SavingsAccount.h
+
+C:/Users/luo/CLionProjects/hello_cplus/summaryOne.cpp
+summaryOne.h
+C:/Users/luo/CLionProjects/hello_cplus/summaryOne.h
+SavingsAccount.h
+C:/Users/luo/CLionProjects/hello_cplus/SavingsAccount.h
+iostream
+-
+
+C:/Users/luo/CLionProjects/hello_cplus/summaryOne.h
 

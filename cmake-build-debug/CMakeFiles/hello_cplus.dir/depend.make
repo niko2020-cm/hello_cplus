@@ -7,9 +7,15 @@ CMakeFiles/hello_cplus.dir/ArrayOfPoints.cpp.obj: \
  ../Point.h
 CMakeFiles/hello_cplus.dir/Matrix.cpp.obj: \
  ../Matrix.cpp
+CMakeFiles/hello_cplus.dir/OneArray.cpp.obj: \
+ ../OneArray.cpp \
+ ../OneArray.h
 CMakeFiles/hello_cplus.dir/Point.cpp.obj: \
  ../Point.cpp \
  ../Point.h
+CMakeFiles/hello_cplus.dir/SavingsAccount.cpp.obj: \
+ ../SavingsAccount.cpp \
+ ../SavingsAccount.h
 CMakeFiles/hello_cplus.dir/client.cpp.obj: \
  ../client.cpp \
  ../client.h
@@ -18,7 +24,7 @@ CMakeFiles/hello_cplus.dir/constPointForParameter.cpp.obj: \
  ../constPointForParameter.h
 CMakeFiles/hello_cplus.dir/main.cpp.obj: \
  ../main.cpp \
- ../mallocArray.h
+ ../summaryOne.h
 CMakeFiles/hello_cplus.dir/mallocArray.cpp.obj: \
  ../ArrayOfPoints.h \
  ../Point.h \
@@ -37,3 +43,7 @@ CMakeFiles/hello_cplus.dir/pointerToFunction.cpp.obj: \
 CMakeFiles/hello_cplus.dir/pointerTypeFunction.cpp.obj: \
  ../pointerTypeFunction.cpp \
  ../pointerTypeFunction.h
+CMakeFiles/hello_cplus.dir/summaryOne.cpp.obj: \
+ ../SavingsAccount.h \
+ ../summaryOne.cpp \
+ ../summaryOne.h

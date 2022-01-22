@@ -1,7 +1,9 @@
 file(REMOVE_RECURSE
   "CMakeFiles/hello_cplus.dir/ArrayOfPoints.cpp.obj"
   "CMakeFiles/hello_cplus.dir/Matrix.cpp.obj"
+  "CMakeFiles/hello_cplus.dir/OneArray.cpp.obj"
   "CMakeFiles/hello_cplus.dir/Point.cpp.obj"
+  "CMakeFiles/hello_cplus.dir/SavingsAccount.cpp.obj"
   "CMakeFiles/hello_cplus.dir/client.cpp.obj"
   "CMakeFiles/hello_cplus.dir/constPointForParameter.cpp.obj"
   "CMakeFiles/hello_cplus.dir/main.cpp.obj"
@@ -10,6 +12,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/hello_cplus.dir/pointForParameter.cpp.obj"
   "CMakeFiles/hello_cplus.dir/pointerToFunction.cpp.obj"
   "CMakeFiles/hello_cplus.dir/pointerTypeFunction.cpp.obj"
+  "CMakeFiles/hello_cplus.dir/summaryOne.cpp.obj"
   "hello_cplus.exe"
   "hello_cplus.exe.manifest"
   "hello_cplus.pdb"

@@ -208,6 +208,45 @@ CMakeFiles/hello_cplus.dir/ArrayOfPoints.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/hello_cplus.dir/ArrayOfPoints.cpp.s"
 	D:\software\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\luo\CLionProjects\hello_cplus\ArrayOfPoints.cpp -o CMakeFiles\hello_cplus.dir\ArrayOfPoints.cpp.s
 
+CMakeFiles/hello_cplus.dir/OneArray.cpp.obj: CMakeFiles/hello_cplus.dir/flags.make
+CMakeFiles/hello_cplus.dir/OneArray.cpp.obj: ../OneArray.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\luo\CLionProjects\hello_cplus\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/hello_cplus.dir/OneArray.cpp.obj"
+	D:\software\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\hello_cplus.dir\OneArray.cpp.obj -c C:\Users\luo\CLionProjects\hello_cplus\OneArray.cpp
+
+CMakeFiles/hello_cplus.dir/OneArray.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/hello_cplus.dir/OneArray.cpp.i"
+	D:\software\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\luo\CLionProjects\hello_cplus\OneArray.cpp > CMakeFiles\hello_cplus.dir\OneArray.cpp.i
+
+CMakeFiles/hello_cplus.dir/OneArray.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/hello_cplus.dir/OneArray.cpp.s"
+	D:\software\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\luo\CLionProjects\hello_cplus\OneArray.cpp -o CMakeFiles\hello_cplus.dir\OneArray.cpp.s
+
+CMakeFiles/hello_cplus.dir/summaryOne.cpp.obj: CMakeFiles/hello_cplus.dir/flags.make
+CMakeFiles/hello_cplus.dir/summaryOne.cpp.obj: ../summaryOne.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\luo\CLionProjects\hello_cplus\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/hello_cplus.dir/summaryOne.cpp.obj"
+	D:\software\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\hello_cplus.dir\summaryOne.cpp.obj -c C:\Users\luo\CLionProjects\hello_cplus\summaryOne.cpp
+
+CMakeFiles/hello_cplus.dir/summaryOne.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/hello_cplus.dir/summaryOne.cpp.i"
+	D:\software\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\luo\CLionProjects\hello_cplus\summaryOne.cpp > CMakeFiles\hello_cplus.dir\summaryOne.cpp.i
+
+CMakeFiles/hello_cplus.dir/summaryOne.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/hello_cplus.dir/summaryOne.cpp.s"
+	D:\software\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\luo\CLionProjects\hello_cplus\summaryOne.cpp -o CMakeFiles\hello_cplus.dir\summaryOne.cpp.s
+
+CMakeFiles/hello_cplus.dir/SavingsAccount.cpp.obj: CMakeFiles/hello_cplus.dir/flags.make
+CMakeFiles/hello_cplus.dir/SavingsAccount.cpp.obj: ../SavingsAccount.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\luo\CLionProjects\hello_cplus\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/hello_cplus.dir/SavingsAccount.cpp.obj"
+	D:\software\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\hello_cplus.dir\SavingsAccount.cpp.obj -c C:\Users\luo\CLionProjects\hello_cplus\SavingsAccount.cpp
+
+CMakeFiles/hello_cplus.dir/SavingsAccount.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/hello_cplus.dir/SavingsAccount.cpp.i"
+	D:\software\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\luo\CLionProjects\hello_cplus\SavingsAccount.cpp > CMakeFiles\hello_cplus.dir\SavingsAccount.cpp.i
+
+CMakeFiles/hello_cplus.dir/SavingsAccount.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/hello_cplus.dir/SavingsAccount.cpp.s"
+	D:\software\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\luo\CLionProjects\hello_cplus\SavingsAccount.cpp -o CMakeFiles\hello_cplus.dir\SavingsAccount.cpp.s
+
 # Object files for target hello_cplus
 hello_cplus_OBJECTS = \
 "CMakeFiles/hello_cplus.dir/main.cpp.obj" \
@@ -220,7 +259,10 @@ hello_cplus_OBJECTS = \
 "CMakeFiles/hello_cplus.dir/pointerToFunction.cpp.obj" \
 "CMakeFiles/hello_cplus.dir/objectPoint.cpp.obj" \
 "CMakeFiles/hello_cplus.dir/mallocArray.cpp.obj" \
-"CMakeFiles/hello_cplus.dir/ArrayOfPoints.cpp.obj"
+"CMakeFiles/hello_cplus.dir/ArrayOfPoints.cpp.obj" \
+"CMakeFiles/hello_cplus.dir/OneArray.cpp.obj" \
+"CMakeFiles/hello_cplus.dir/summaryOne.cpp.obj" \
+"CMakeFiles/hello_cplus.dir/SavingsAccount.cpp.obj"
 
 # External object files for target hello_cplus
 hello_cplus_EXTERNAL_OBJECTS =
@@ -236,11 +278,14 @@ hello_cplus.exe: CMakeFiles/hello_cplus.dir/pointerToFunction.cpp.obj
 hello_cplus.exe: CMakeFiles/hello_cplus.dir/objectPoint.cpp.obj
 hello_cplus.exe: CMakeFiles/hello_cplus.dir/mallocArray.cpp.obj
 hello_cplus.exe: CMakeFiles/hello_cplus.dir/ArrayOfPoints.cpp.obj
+hello_cplus.exe: CMakeFiles/hello_cplus.dir/OneArray.cpp.obj
+hello_cplus.exe: CMakeFiles/hello_cplus.dir/summaryOne.cpp.obj
+hello_cplus.exe: CMakeFiles/hello_cplus.dir/SavingsAccount.cpp.obj
 hello_cplus.exe: CMakeFiles/hello_cplus.dir/build.make
 hello_cplus.exe: CMakeFiles/hello_cplus.dir/linklibs.rsp
 hello_cplus.exe: CMakeFiles/hello_cplus.dir/objects1.rsp
 hello_cplus.exe: CMakeFiles/hello_cplus.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\luo\CLionProjects\hello_cplus\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Linking CXX executable hello_cplus.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\luo\CLionProjects\hello_cplus\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Linking CXX executable hello_cplus.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\hello_cplus.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

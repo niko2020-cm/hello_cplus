@@ -1,9 +1,8 @@
-#include <iostream>
-using namespace std;
-#include "mallocArray.h"
+
+#include "summaryOne.h"
 
 int main()
 {
-    mallocArray();
+    summaryOne();
     return 0;
 }
