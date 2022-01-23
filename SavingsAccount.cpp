@@ -9,8 +9,10 @@ using namespace std;
 
 
 double SavingsAccount::total=0;
+
 /*SavingsAccount类相关成员函数的实现*/
-SavingsAccount::SavingsAccount(int date, int id, double rate) : lastDate(date),rate(rate),id(id){
+
+SavingsAccount::SavingsAccount(int date, int id, double rate) : lastDate(date),rate(rate),id(id),accumulation(0),balance(0){
     cout<<date<<"\t#"<<id<<"is created"<<endl;
 }
 
