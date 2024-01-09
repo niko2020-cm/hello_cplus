@@ -1,3 +1,3 @@
-C:\Users\luo\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\212.5284.51\bin\cmake\win\bin\cmake.exe -E rm -f CMakeFiles\hello_cplus.dir/objects.a
-D:\software\mingw64\bin\ar.exe cr CMakeFiles\hello_cplus.dir/objects.a @CMakeFiles\hello_cplus.dir\objects1.rsp
-D:\software\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\hello_cplus.dir/objects.a -Wl,--no-whole-archive -o hello_cplus.exe -Wl,--out-implib,libhello_cplus.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\hello_cplus.dir\linklibs.rsp
+"C:\Users\luomi\AppData\Local\Programs\CLion Nova\bin\cmake\win\x64\bin\cmake.exe" -E rm -f CMakeFiles\hello_cplus.dir/objects.a
+C:\Users\luomi\AppData\Local\Programs\CLIONN~1\bin\mingw\bin\ar.exe qc CMakeFiles\hello_cplus.dir/objects.a @CMakeFiles\hello_cplus.dir\objects1.rsp
+C:\Users\luomi\AppData\Local\Programs\CLIONN~1\bin\mingw\bin\G__~1.EXE -g -Wl,--whole-archive CMakeFiles\hello_cplus.dir/objects.a -Wl,--no-whole-archive -o hello_cplus.exe -Wl,--out-implib,libhello_cplus.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\hello_cplus.dir\linkLibs.rsp

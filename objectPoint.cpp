@@ -13,8 +13,8 @@ using namespace std;
 
 void objectPoint()
 {
-    Point a(4,5);
-    Point *PointPtr=&a;
+    Point const a(4,5);
+    const Point *PointPtr=&a;
 
     cout<<" x="<<a.getx()<<endl;
 

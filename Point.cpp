@@ -22,8 +22,8 @@ void Point::showCount(){//输出点的个数
 }
 void Point::move(int move_x,int move_y)
 {
-    x=move_x;
-    y=move_y;
+    x+=move_x;
+    y+=move_y;
 }
 float distance(Point &a,Point &b)
 {   float x,y;

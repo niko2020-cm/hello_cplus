@@ -1,4 +1,4 @@
-ToolSet: w64 6.0 (local)@D:\software\mingw64
+ToolSet: 11.0 w64 (local)@C:\Users\luomi\AppData\Local\Programs\CLion Nova\bin\mingw
 Options: 
 
 Options:
